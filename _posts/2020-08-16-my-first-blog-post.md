@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "Welcome to madix blog"
+date: 2020-08-16
 ---
 # my blog on github
